@@ -1,0 +1,54 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+
+.gray {
+	background-color: rgba(207, 207, 207, 1);
+	height: 10%;
+	width: 100%;
+	padding: 5px 5px;
+}
+
+.littleBlue{
+	height: 45px;
+	width: 45px;
+	background-color: rgba(60, 123, 218, 1);
+}
+
+.white {
+	height: 25%;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 1);
+	color: black;
+    text-align: center;
+	font-size: 16px;
+	font-family: Helvetica;
+}
+
+
+.blue {
+	height: 15%;
+	width: 100%;
+	background-color: rgba(60, 123, 218, 1);
+}
+
+.green {
+	height: 15%;
+	width: 100%;
+	background-color: rgba(89, 224, 181, 1);
+}
+
+.moss {
+	height: 15%;
+	width: 100%;
+	background-color: rgba(171, 232, 116, 1);
+}
+
+.yellow {
+	height: 15%;
+	width: 100%;
+	background-color: rgba(245, 228, 39, 1);
+}
